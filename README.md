@@ -25,12 +25,7 @@ I believe creativity and technology work best together, and I'm always looking f
 
 | Project | Description |
 |---|---|
-| **Maracannes** | Audiovisual production, live streaming, graphic design, post-production, interviews and website development for a school arts festival. |
 | **Museu Maker** | Video editing, photography, animation, camera operation, YouTube channel management and technical article co-authorship. |
-| **InterMaraca** | Live production, broadcast operations, event organization and technical support for a school technology and gaming event. |
-| **Fala Maraca** | Audiovisual production and digital content for a school communication project. |
-| **Curta Criativo 2026** | 1st Place Student Award. Worked as Director of Photography and Video Editor on a short film. |
-| **Arte Maker** | Audiovisual and creative production, including the short film *Tempo Perdido*, winner of Curta Criativo 2025. |
 | **DripLab / PISANTE** | Gamified streetwear e-commerce project combining web development, game mechanics and interactive experiences. |
 | **Sniper Duels** | A 3D multiplayer 1v1 game developed with Unity and C#. |
 
